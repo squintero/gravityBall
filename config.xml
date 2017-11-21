@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Juego</name>
+    <name>Gravity Ball</name>
     <description>
-        Juego demostracion de las capacidades del acelerometro.
+        Game using the accelerometer
     </description>
-    <author email="hola@devscola.org" href="http://devscola.org">
-        Devscola
+    <author email="s.quinteroc91@gmail.com" href="#">
+        Samuel Quintero
     </author>
     <content src="index.html" />
     <access origin="*" />
